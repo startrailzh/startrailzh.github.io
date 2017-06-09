@@ -5,4 +5,3 @@ this is for test
 
 
 [baidu](http://www.baidu.com)
-[test](index.jsp)
